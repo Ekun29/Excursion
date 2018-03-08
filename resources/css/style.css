@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: "verdana",sans-serif;
+}
+
+ h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.hidden {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.exc {
+font-family: verdana;
+color: gray;
+font-size: 21px;
+}
+
+h2 {
+  font-size: 42px;
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+}
+.right {
+  text-align: right;
+  color: gray;
+}
